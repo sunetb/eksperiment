@@ -4,19 +4,15 @@ import java.util.Scanner;
 
 public class Main {
 
-   //Ændring 1
-
-
-
     public static void main(String[] args) {
 
        //Her skriver vi ud til konsollen
        System.out.println("Skriv et tal"+(2<=3));
 
-      //wetwtw
 
 
-       //
+
+       //dgsagsa2
        Scanner input = new Scanner(System.in);
        int a = input.nextInt();
 
@@ -31,6 +27,10 @@ public class Main {
        System.out.println("Hej "+ (a == b));
        System.out.println("Hej "+ (password.equals(username)));
 
+
+       //elkgej
+
+       //eptorpoe
 
 
        //Er to strenge ens? password.equals(username)
