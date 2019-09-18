@@ -32,6 +32,8 @@ public class Main {
 
        //eptorpoe
 
+       //Æmdroing på gren2
+
 
        //Er to strenge ens? password.equals(username)
        input.close();
