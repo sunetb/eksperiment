@@ -12,7 +12,7 @@ public class Main {
 
 
 
-       //dgsagsa
+       //dgsagsa2
        Scanner input = new Scanner(System.in);
        int a = input.nextInt();
 
@@ -27,6 +27,8 @@ public class Main {
        System.out.println("Hej "+ (a == b));
        System.out.println("Hej "+ (password.equals(username)));
 
+
+       //elkgej
 
 
        //Er to strenge ens? password.equals(username)
