@@ -10,6 +10,9 @@ public class Main {
        System.out.println("Skriv et tal"+(2<=3));
 
 
+
+
+       //dgsagsa
        Scanner input = new Scanner(System.in);
        int a = input.nextInt();
 
