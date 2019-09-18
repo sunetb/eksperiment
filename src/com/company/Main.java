@@ -9,7 +9,7 @@ public class Main {
        //Her skriver vi ud til konsollen
        System.out.println("Skriv et tal"+(2<=3));
 
-
+      //wetwtw
 
 
        //dgsagsa
