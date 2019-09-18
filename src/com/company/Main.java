@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Main {
 
+   //Ændring 1
+
+
+
     public static void main(String[] args) {
 
        //Her skriver vi ud til konsollen
@@ -12,7 +16,7 @@ public class Main {
       //wetwtw
 
 
-       //dgsagsa
+       //
        Scanner input = new Scanner(System.in);
        int a = input.nextInt();
 
